@@ -27,6 +27,7 @@
 
 ### 📊 GitHub Stats
 
+---
 ### 🚀 Featured Skills
 
 ✔ REST API Development  
