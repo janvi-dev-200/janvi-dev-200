@@ -2,7 +2,7 @@
 <h3 align="center">Python Full Stack Developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Python+Full+Stack+Developer;FastAPI+%7C+Django+Developer;Backend+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Janvi+Rathore;Software+Engineer;Python+Full+Stack+Developer;FastAPI+%7C+Django+Developer;Backend+Engineer" alt="Typing SVG" />
 </p>
 
 ---
