@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Janvi</h1>
+<h3 align="center">Python Full Stack Developer from India</h3>
 
-<!--
-**janvi-dev-200/janvi-dev-200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Python+Full+Stack+Developer;FastAPI+%7C+Django+Developer;REST+API+Developer;Backend+Automation+Engineer" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 💻 Python Full Stack Developer
+- 🚀 Building scalable web applications & REST APIs
+- ⚡ Skilled in FastAPI, Django, PostgreSQL & MySQL
+- 🔧 Interested in Backend Development & Automation
+- 🌱 Currently improving Full Stack Development skills
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,mysql,git,github,html,css,js,vscode,linux" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Janvi-3&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janvi-3&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janvi-3&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Featured Skills
+
+✔ REST API Development  
+✔ Backend Development  
+✔ Database Design  
+✔ Network Automation  
+✔ SSH Operations  
+✔ Full Stack Web Development  
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Janvi-3">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Janvi-3&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
